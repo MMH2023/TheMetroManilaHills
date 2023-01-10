@@ -1,6 +1,1 @@
 themetromanilahills.com
-$ dig WWW.THEMETROMANILAHILLS.COM +nostats +nocomments +nocmd
-    > ;WWW.THEMETROMANILAHILLS.COM.                    IN      A
-    > WWW.THEMETROMANILAHILLS.COM.             3592    IN      CNAME   YOUR-USERNAME.github.io.
-    > MMH2023.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
-    > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
